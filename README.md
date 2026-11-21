@@ -1,8 +1,8 @@
 # Today in the World — 21 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/)
-[![@Schyd](https://img.shields.io/badge/@Schyd-make.fun-green)](https://make.fun/u/schyd)
-[![news-image-20261121](https://img.shields.io/badge/news--image--20261121-bounty-orange)](https://make.fun/bounty/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/Schyd/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/Schyd/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A one-day newspaper front page that sums up the world's news of
 **Saturday 21 November 2026** in a single image: 48 stories across 8 regions
